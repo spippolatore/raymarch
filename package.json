@@ -1,0 +1,10 @@
+{
+  "name": "raymarch",
+  "version": "0.0.0",
+  "description": "Raymarching",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feisty/raymarch"
+  },
+  "license": "WTFPL"
+}
